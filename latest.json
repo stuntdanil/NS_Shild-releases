@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "https://github.com/stuntdanil/NS_Shild-releases/releases/download/v1.0.11/NS.Shild.v1.0_1.0.11_x64-setup.exe.sig",
-      "url": "https://github.com/stuntdanil/NS_Shild-releases/releases/download/v1.0.11/NS.Shild.v1.0_1.0.11_x64-setup.exe"
+      "url": "https://github.com/stuntdanil/NS_Shild-releases/releases/download/v1.1.1/NS.Shild.v1.1_1.1.1_x64-setup.exe"
     }
   }
 }
